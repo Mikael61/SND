@@ -1,2 +1,14 @@
 1. Starta oXygen
-2. Ladda ner filerna i https://github.com/Mikael61/SND/ genom funktionen "download"
+2. Växla till ett webbläsarfönster. Ladda ner filerna i https://github.com/Mikael61/SND/ genom funktionen "clone or download" > "download zip"
+3. Packa upp filarkivet och håll reda på var du har dina filer
+4. Växla till oXygen. Öppna filen "letter-to-LG.txt" från File-menyn
+5. Välj från File-menyn "New" och studera vilka alternativ som finns att välja på.
+6. Välj XHTML > XHTML 1.0 Strict
+7. Repetera 5-6 och välj i stället TEI P5 > All
+
+8. Kopiera och klistra in texten från 4 till ett p-element i body i HTML-dokumentet och till body/p i TEI-dokumentet. Spara båda filerna.
+9. Öppna båda filerna i en webbläsare
+
+10. Sök nu ge struktur åt innehållet och se vilka uppgifter (metadata) som kan vara angelägna. Filerna "letter1.jpg" och "letter2.jpg" utgör förlaga. 
+
+11. När du tycker att du inte kommer längre, öppna "letter-to-LG.xml" i oXygen och jämför.
