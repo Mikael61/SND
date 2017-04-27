@@ -1,0 +1,2 @@
+1. Starta oXygen
+2. Ladda ner filerna i https://github.com/Mikael61/SND/ genom funktionen "download"
